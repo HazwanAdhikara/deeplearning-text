@@ -1,10 +1,2 @@
-submission1.csv
-submission2.csv
-submission3.csv
-submission4.csv
-submission5.csv
-submission6.csv
-submission7.csv
-submission9.csv
-submission10.csv
+/submission*.csv
 data/sample_submission.csv
